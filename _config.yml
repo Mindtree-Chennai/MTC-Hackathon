@@ -1,6 +1,7 @@
 #theme: jekyll-theme-hacker
 url: https://mindtree-chennai.github.io/MTC-Hackathon/index.html
-theme: jekyll-theme-merlot
+#theme: jekyll-theme-merlot
+theme: jekyll-theme-architect
 #baseurl: /agency-jekyll-theme/
 
 # Site settings
@@ -66,4 +67,4 @@ address:
 markdown: kramdown
 permalink: pretty
 
-theme: jekyll-theme-merlot
+#theme: jekyll-theme-merlot
