@@ -1,7 +1,7 @@
 #theme: jekyll-theme-hacker
 url: https://mindtree-chennai.github.io/MTC-Hackathon/index.html
-#theme: /agency-jekyll-theme/
-baseurl: /agency-jekyll-theme/
+theme: /merlot-theme-jekyll/
+#baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: Mindtree Chennai Hackathon 2K19
