@@ -6,6 +6,8 @@ url: https://mindtree-chennai.github.io/MTC-Hackathon/index.html
 #theme: jekyll-theme-cayman
 theme: jekyll-theme-midnight
 
+github:
+  is_project_page: false
 
 # Site settings
 title: Mindtree Chennai Hackathon 2K19
