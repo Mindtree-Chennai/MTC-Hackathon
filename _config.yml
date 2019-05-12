@@ -1,6 +1,4 @@
-
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+theme: jekyll-theme-hacker
 
 # Site settings
 title: Awesome Title
