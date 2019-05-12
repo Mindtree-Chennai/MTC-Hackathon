@@ -3,7 +3,8 @@ url: https://mindtree-chennai.github.io/MTC-Hackathon/index.html
 #baseurl: /agency-jekyll-theme/
 #theme: jekyll-theme-merlot
 #theme: jekyll-theme-architect
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 
 
 # Site settings
